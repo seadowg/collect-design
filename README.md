@@ -6,7 +6,7 @@ This repo holds the design files for [ODK Collect](https://github.com/opendataki
 
 ### Style guide
 
-If you'd like to view the style guide for Collect you can do so [here](https://github.com/seadowg/collet-design/releases/latest/download/collect-styleguide.pdf).
+If you'd like to view the style guide for Collect you can do so [here](https://github.com/seadowg/collect-design/releases/latest/download/collect-styleguide.pdf).
 
 ### Building mockups
 

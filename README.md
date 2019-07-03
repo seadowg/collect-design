@@ -35,4 +35,4 @@ git clone https://github.com/YOUR-GITHUB-USERNAME/collect-design
 1. Commit your changes and push your branch using Kactus
 1. Create a new [pull request](https://help.github.com/en/articles/creating-a-pull-request)
 
-**Note: Kactus tracks the changes to your Sketch file and explodes it into many JSON files so it's easier to track the diffs between commits. You don't have to use Kactus for all your interactions with
+*Note: Kactus tracks the changes to your Sketch file and explodes it into many JSON files so it's easier to track the diffs between commits. You don't have to use Kactus for all your interactions with Git but if you don't have it open Git won't see the changes to the Sketch file.*

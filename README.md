@@ -6,7 +6,7 @@ This repo holds the design files for [ODK Collect](https://github.com/opendataki
 
 ### Style guide
 
-If you'd like to view the style guide for Collect you can do so [here](https://github.com/opendatakit/collet-design/releases/latest/download/collect-styleguide.pdf).
+If you'd like to view the style guide for Collect you can do so [here](https://github.com/seadowg/collet-design/releases/latest/download/collect-styleguide.pdf).
 
 ### Building mockups
 
@@ -15,7 +15,7 @@ If you'd like to use the Sketch files as the basis for building mockups for Coll
 1. Install [Git](https://git-scm.com/downloads) and [Kactus](https://kactus.io/)
 1. Clone the project:
 ```bash
-git clone https://github.com/opendatakit/collect-design
+git clone https://github.com/seadowg/collect-design
 ```
 1. Open the cloned repo in Kactus and open the Sketch file by clicking "Regenerate Sketch File" and then "Open File"
 

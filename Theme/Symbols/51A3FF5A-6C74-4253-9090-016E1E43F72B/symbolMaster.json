@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "463618CB-D852-403E-9078-B3E889120FC4",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "51A3FF5A-6C74-4253-9090-016E1E43F72B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "04C9BE16-7DA9-4E4C-A287-224DE3ACE882",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C29DD7D9-C76F-4D4E-B27F-1948727D2F0B",
     "height": 24,
     "width": 24,
     "x": 37284,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C389F421-A43C-425E-932B-5AE8D8109194",
     "guides": [
     ]
   },
@@ -86,6 +82,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Icon / Access Time / Rounded",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -95,6 +92,8 @@
       "overrideName": "DF93B873-44EC-4EA0-8B96-97F005C263FA_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -102,9 +101,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "91996742-D71E-468E-B949-6B642015B807",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -112,7 +149,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D9C1A6B4-792E-426C-BB69-551E605D6395",
     "guides": [
     ]
   }

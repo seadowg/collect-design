@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "805B4A4D-F8EA-41A1-B8AE-2EBD464F6264",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "23FCD1A1-DFE4-45AD-A785-E40F455BF5A0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AFBDFAF4-2ECB-4B9A-92CB-9CD82A7F6B9A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5BAA9B81-221E-40CB-A411-3505F463B1A4",
     "height": 24,
     "width": 24,
     "x": 48600,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3265C673-8567-4801-8548-BD7722597D91",
     "guides": [
     ]
   },
@@ -86,6 +82,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Icon / Toggle / Checkbox / Filled",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -95,6 +92,8 @@
       "overrideName": "A6121B1E-6785-4D1B-BE16-89176752A5B8_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -102,9 +101,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "87BB4D23-D303-460F-94AB-93FB9A96199D",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -112,7 +149,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2E005DFE-B4E5-4482-BB0D-C3F722B387F8",
     "guides": [
     ]
   }

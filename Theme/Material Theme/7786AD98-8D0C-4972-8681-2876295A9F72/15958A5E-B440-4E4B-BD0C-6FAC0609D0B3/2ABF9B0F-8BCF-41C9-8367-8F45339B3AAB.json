@@ -5,7 +5,6 @@
   "do_objectID": "2ABF9B0F-8BCF-41C9-8367-8F45339B3AAB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FE471FB3-D052-48DB-AE87-F674D4550A6D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BAB0F467-FF72-4A06-9743-FB3244FABF74",
     "height": 32,
     "width": 200,
     "x": 0,
@@ -30,12 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Artboard Content / File captions / Left / Large / Black",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "06968E43-A739-4131-93FF-5C84B28878E3",
       "overrideName": "07602B19-A6DD-4162-A4BA-5ECEDD187ECC_stringValue",
       "value": "4dp"
     }
@@ -47,9 +45,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "60110EB9-0516-4109-B4F8-821A296278F9",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

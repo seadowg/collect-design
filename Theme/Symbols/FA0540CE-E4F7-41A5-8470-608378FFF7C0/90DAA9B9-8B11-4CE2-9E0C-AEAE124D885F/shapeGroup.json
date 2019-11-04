@@ -5,7 +5,6 @@
   "do_objectID": "90DAA9B9-8B11-4CE2-9E0C-AEAE124D885F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "44CAC3D0-9D48-4050-8B38-7021759EE61A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8FFAACF6-C327-4A66-A661-B933FA924203",
     "height": 258,
     "width": 344,
     "x": 0,
@@ -55,6 +53,7 @@
       "id": "CCDDB935-83E1-420A-8452-B06F67AB59F5"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Surface",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -64,6 +63,38 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "214074A4-C8E2-457D-8737-58972098A5AE",
     "endMarkerType": 0,
     "fills": [
@@ -76,13 +107,51 @@
           "green": 0.9803921568627451,
           "red": 0.9803921568627451
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
       }
+    ],
+    "innerShadows": [
     ],
     "miterLimit": 10,
     "shadows": [

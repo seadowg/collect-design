@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "81F643B2-8C04-47F2-9748-6311AE818FC2",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "8F5465B3-2DA2-48B2-A0B9-419306F6F1BA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CF3AD667-724B-417D-85B7-D155018AD8D6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4C05E66C-40B9-45F9-80EF-6496251746BF",
     "height": 8,
     "width": 120,
     "x": 78358,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4AC8DC30-5848-4BE5-99C5-DAA2FDBBF3BC",
     "guides": [
     ]
   },
@@ -86,6 +82,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Slider / Elements / Highlight",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -105,6 +102,8 @@
       "overrideName": "D6D589C4-5970-40AA-937D-F3C4E948F9F4_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -112,9 +111,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "1F86522D-4117-48B9-A2DD-0F24074A5118",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -127,7 +164,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0BDCCDD8-A430-4D71-966C-F372290F25AF",
     "guides": [
     ]
   }

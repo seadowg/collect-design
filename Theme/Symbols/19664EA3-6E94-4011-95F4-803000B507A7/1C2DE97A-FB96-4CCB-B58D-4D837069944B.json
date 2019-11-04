@@ -5,7 +5,6 @@
   "do_objectID": "1C2DE97A-FB96-4CCB-B58D-4D837069944B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7DAA6BFD-6552-4AED-8542-A81233CF41AC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "BD61C904-91A5-4E2A-B5E1-F0772B52139D",
     "height": 174,
     "width": 174,
     "x": 182,
@@ -30,18 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "TILE 2",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "53ADD264-4C0E-4504-B0F1-37C7338391A5",
       "overrideName": "3FA68764-C9F2-432C-A842-865BEF2AE5DA_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5B3B9530-7859-4CCE-A349-A27A565ED8FE",
       "overrideName": "886D1DFB-5195-4954-9550-868C505D99E1_symbolID",
       "value": ""
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "A2DFE5F6-784A-48FB-9DAA-CCC7B3E044C3",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

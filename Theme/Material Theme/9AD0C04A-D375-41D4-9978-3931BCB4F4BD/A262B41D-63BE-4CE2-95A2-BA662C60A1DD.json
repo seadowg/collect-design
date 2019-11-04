@@ -5,7 +5,6 @@
   "do_objectID": "A262B41D-63BE-4CE2-95A2-BA662C60A1DD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0C3076FD-5522-4905-AB5C-506BBE67821C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "10279AED-4AF1-4D37-982D-16AC851B7C00",
     "height": 128,
     "width": 1965,
     "x": 140,
@@ -30,12 +28,12 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Text / H1 / Selected / On Surface / High Emphasis / Left",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1F53930E-C0DA-416A-A669-2138B4CD0A27",
       "overrideName": "1686BF8B-FA0C-4E0E-A1A9-0A217E992E10_stringValue",
       "value": "H1 / Roboto Light"
     }
@@ -47,9 +45,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B72B277B-3A2D-4259-923D-3C7978AF2578",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

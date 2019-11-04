@@ -100,7 +100,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9DC73867-05CA-487A-B877-0A94068C1A3E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -111,7 +110,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D30BA9CD-1DD3-4C00-B117-5AAD6818A4EB",
     "height": 66,
     "width": 504,
     "x": 240,
@@ -126,6 +124,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "Visit Material.io fo",
   "nameIsFixed": false,
   "resizingConstraint": 41,
@@ -134,19 +133,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "108BF7B1-0AD2-4631-AA13-A7675199FA23",
       "opacity": 0.54
     },
     "do_objectID": "71F0246B-7359-4F42-8B8B-3C7B5042A3C8",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "52C43A61-5F25-497B-87AF-CB9B8392D7D2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

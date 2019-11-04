@@ -5,7 +5,6 @@
   "do_objectID": "B8A97265-C487-45A2-AE5F-127E0DE605AB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "667B5EBE-9E6D-497E-9D02-77DD7B551B80",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1DA50D5D-7716-4D5D-8760-D0911AA0A5F2",
     "height": 46,
     "width": 864,
     "x": 80,
@@ -30,18 +28,17 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Artboard Content / Title Block",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7AAED95A-1F4F-4BE9-82E9-B2DF7D8FFC06",
       "overrideName": "7C91DF9B-86A3-4C1E-8AD2-B337D24D9904_stringValue",
       "value": "Active and Inactive Tab states"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8DD037BA-E16A-41E0-9FEA-91BE39CDAD97",
       "overrideName": "7564F519-7F45-45DC-AF80-FF315BD6D832_stringValue",
       "value": "Elements – Text & Icon Tabs"
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "F7ACFEB2-442A-46DF-BA13-1DF397A99A7F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.9803921568627451,
-    "do_objectID": "61072A37-ACC0-4172-B923-5038A23D6B4E",
     "green": 0.9803921568627451,
     "red": 0.9803921568627451
   },
@@ -13,7 +12,6 @@
   "do_objectID": "B4CCA13F-E3DD-4523-8BA2-36419AD2B8AB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EF4CB828-D771-456E-A5B5-00906FF31727",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,7 +22,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "31B1234F-5D7D-4A5E-AF5A-42127B6D5D71",
     "height": 1800,
     "width": 1024,
     "x": -7185,
@@ -32,7 +29,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "C19F8F3F-B26D-4864-9401-F91609029F7A",
     "gridSize": 4,
     "isEnabled": false,
     "thickGridTimes": 40
@@ -46,7 +42,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2CA7C620-1409-49C4-A5B7-5DB77624D24C",
     "guides": [
     ]
   },
@@ -144,7 +139,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 48,
-    "do_objectID": "AF153983-3042-416D-9978-12CB00460C29",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -157,8 +151,11 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 864
   },
+  "maintainScrollPosition": false,
   "name": "Cards, Page 3",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -166,6 +163,38 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "AD838259-09D0-4457-831E-177434C7568E",
     "endMarkerType": 0,
     "fills": [
@@ -178,7 +207,43 @@
           "green": 1,
           "red": 1
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -186,14 +251,17 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "991AC74C-E345-484B-8FEB-1ACA34EB6EBF",
     "guides": [
     ]
   }

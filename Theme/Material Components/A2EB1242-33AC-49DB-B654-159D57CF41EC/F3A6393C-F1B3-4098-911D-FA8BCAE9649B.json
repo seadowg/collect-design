@@ -5,7 +5,6 @@
   "do_objectID": "F3A6393C-F1B3-4098-911D-FA8BCAE9649B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "64C0DC4C-426B-400B-B56F-E6D2A1690F9A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A5A82291-AD47-4D1A-86AE-37A139389E51",
     "height": 200,
     "width": 1024,
     "x": 0,
@@ -30,18 +28,17 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Artboard Content / Component Header",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "03410B6A-C545-421F-9D90-4000A130E0C6",
       "overrideName": "F3FD3230-5015-472E-9FC8-2E2E9A23CFAC_stringValue",
       "value": "Material Stickersheet"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0DBCFCF2-FD5D-420A-81FA-A026DBF612CA",
       "overrideName": "5DC582DE-2719-4B95-8A3A-7D64C77BB318_stringValue",
       "value": "Lists"
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "D897DC2D-6296-4358-AA66-F1F9A2617698",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

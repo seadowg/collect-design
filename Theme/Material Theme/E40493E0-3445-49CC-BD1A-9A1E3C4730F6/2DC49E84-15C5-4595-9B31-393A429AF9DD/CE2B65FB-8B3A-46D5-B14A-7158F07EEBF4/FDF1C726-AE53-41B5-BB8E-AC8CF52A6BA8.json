@@ -5,7 +5,6 @@
   "do_objectID": "FDF1C726-AE53-41B5-BB8E-AC8CF52A6BA8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9595D40D-1371-48D7-9E8C-8A303AA5577C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F595FDE1-250B-45E2-95FF-9997CE7BDEA6",
     "height": 472,
     "width": 344,
     "x": 8,
@@ -30,12 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Cards / Multi-image / Filled / Resting",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7793F7C-54F9-486F-B29E-9E3F8B9C2FAE",
       "overrideName": "26E33A58-67EA-40F2-A9C1-8B6A741AFC75/A4ABBC8E-FC8E-486A-AA01-4EB093E08475/3E9E0621-6866-4FB3-9BBA-A641BB4F4FA0_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -45,7 +43,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A79109C9-9E18-4E57-9142-07EB20C0BA4A",
       "overrideName": "12D80CB3-BDFE-476D-966B-7B4B6810AD33/B60D64E0-30BE-49AE-9FED-DB276BA2FF28_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -55,7 +52,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FAFA596E-6130-4C90-A48C-0832D822962E",
       "overrideName": "0042CA07-9A2F-416F-8C8C-540103EFC148/B60D64E0-30BE-49AE-9FED-DB276BA2FF28_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -65,7 +61,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D6540EC5-EA45-4F90-98C7-BE6A2C845F8C",
       "overrideName": "FEDB110B-E2E4-44B7-A69F-C277505D3ACD/B60D64E0-30BE-49AE-9FED-DB276BA2FF28_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -75,7 +70,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C837A17E-1EE1-4BDF-83B3-E1B21CABEA4F",
       "overrideName": "E4FA3448-F206-4BE1-BD0A-4F9E3B47E582/B60D64E0-30BE-49AE-9FED-DB276BA2FF28_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -85,7 +79,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "F4FD50A4-9D18-4E63-969C-89E1A56985CB",
       "overrideName": "9C65692D-E39B-430E-8502-E167030F8E5F/B60D64E0-30BE-49AE-9FED-DB276BA2FF28_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -101,9 +94,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "555F1841-A043-4FC0-8D31-4151E23113F3",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

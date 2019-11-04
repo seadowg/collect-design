@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "9505B58E-401D-4ABB-A8B6-522F93709D2F",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "6686D7A2-5184-4B1C-ADF6-89AC51ED2F12",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DF1FC1F1-748F-4D11-916F-0B15A75AA5C8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "017C2ADB-1F80-407F-900B-29E154E2135D",
     "height": 64,
     "width": 304,
     "x": 66196,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "38D1F06D-1C83-4DD2-90EC-882931E3FAB4",
     "guides": [
     ]
   },
@@ -94,6 +90,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Navigation Drawer / Elements / Account Switcher / Collapsed / Text & Avatar",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -123,6 +120,8 @@
       "overrideName": "08BCC837-69EF-43F4-9DDF-B5DB3CA5D80F_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -130,9 +129,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "4B9466CD-17BE-4FDC-A138-C33EEA02A600",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -140,7 +177,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "AF937D32-7844-4560-ADD0-29D234B708DC",
     "guides": [
     ]
   }

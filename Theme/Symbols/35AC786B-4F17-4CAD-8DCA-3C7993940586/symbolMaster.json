@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "CE757E55-2086-41D6-8177-B048E288228B",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "35AC786B-4F17-4CAD-8DCA-3C7993940586",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "616697AC-A4DF-4828-8238-38552D75AA15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4F68BA9C-919C-4022-891C-7B3280A2A2D9",
     "height": 56,
     "width": 304,
     "x": 67404,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "5C1A01F0-05C4-4DBD-997C-1CE0F04BC63C",
     "guides": [
     ]
   },
@@ -94,6 +90,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Navigation Drawer / Elements / Header / Icon + Headline ",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -118,6 +115,8 @@
       "overrideName": "DD2452F5-56DB-4A52-BE14-AD561E7143C4_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -125,9 +124,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "4BF2FC19-D73F-4DD9-A144-FDE8C9EE7B01",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -135,7 +172,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B2E9E90B-C105-45F4-8A48-E2DC9A4D9ED3",
     "guides": [
     ]
   }

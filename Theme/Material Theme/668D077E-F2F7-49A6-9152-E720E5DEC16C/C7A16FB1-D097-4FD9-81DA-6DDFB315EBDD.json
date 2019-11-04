@@ -5,7 +5,6 @@
   "do_objectID": "C7A16FB1-D097-4FD9-81DA-6DDFB315EBDD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F92F7079-75C2-471E-A34E-FB6F56455A9B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "98DD9460-3E1F-4357-8F9B-56F7CE320B21",
     "height": 28,
     "width": 120,
     "x": 599,
@@ -30,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Text / Body 1 / White / High Emphasis / Left",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0C252CE0-63FB-4808-AD2E-523C7C665F01",
-      "overrideName": "73766BB3-BE0F-43B4-9887-148CB9C8FF1B_stringValue",
-      "value": "#757575"
+      "overrideName": "615E97C5-7DE5-40F4-8D79-8C3A251DC07C_stringValue",
+      "value": "#979797"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +45,50 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "5D363E04-38CA-4126-95C9-FD026DA728C3",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BCBF0513-966C-4C9F-96B5-58F602B90938",
+  "symbolID": "7DCEDABC-6A1A-4954-B538-CF417B826D61",
   "verticalSpacing": 0
 }

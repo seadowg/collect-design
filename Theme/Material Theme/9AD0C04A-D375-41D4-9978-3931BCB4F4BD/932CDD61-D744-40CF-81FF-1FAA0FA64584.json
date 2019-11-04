@@ -5,7 +5,6 @@
   "do_objectID": "932CDD61-D744-40CF-81FF-1FAA0FA64584",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7E8B8ADF-6172-420F-8DCE-0402D0AFF02D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "183A0B98-F389-4EB6-B0F6-DEDA3D181E75",
     "height": 180,
     "width": 340,
     "x": 960,
@@ -30,12 +28,12 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Text / Body 1 / Selected / On Surface / Medium Emphasis / Left ",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "91A0B0A1-62B2-4F38-918D-8412F592C6C3",
       "overrideName": "908891C3-4C8E-4D0D-B5AD-F0B7253E6320_stringValue",
       "value": "By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out..."
     }
@@ -47,9 +45,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C8471BE4-9F5D-4A0E-AC61-B47DAF47B82E",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

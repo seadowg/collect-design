@@ -5,7 +5,6 @@
   "do_objectID": "A248A97C-4050-4DDC-9847-91ED64DE60DC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C5DA494D-4E42-4233-9869-D4908908B473",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7C84A4E9-D990-4A11-B3D9-5BE7C416DFCA",
     "height": 48,
     "width": 312,
     "x": 16,
@@ -30,12 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "BODY 2 COLOR & STYLE",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "697151DE-3FF0-46D2-AB84-EB958EA32F1F",
       "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
       "value": "Greyhound divisively hello coldly wonderfully marginally far upon..."
     }
@@ -47,9 +45,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "80901028-2FCF-4DF2-B98D-D84ED7E2EA5C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

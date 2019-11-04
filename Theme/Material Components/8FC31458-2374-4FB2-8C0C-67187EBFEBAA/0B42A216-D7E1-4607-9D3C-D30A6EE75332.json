@@ -5,7 +5,6 @@
   "do_objectID": "0B42A216-D7E1-4607-9D3C-D30A6EE75332",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "199C16C8-88A1-4202-A7BB-5154BD357986",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "61C00C84-1C22-4108-AF40-2644B3FA4596",
     "height": 1800,
     "width": 1024,
     "x": 0,
@@ -30,12 +28,12 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Color / Surface / Main",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "EDD33F0F-5F00-4356-9882-28E1B5170044",
       "overrideName": "5EDA851F-AB34-437C-928E-A9D2802C2469_symbolID",
       "value": "BFB93D0E-593E-4CB8-8044-63C3541DA053"
     }
@@ -47,6 +45,33 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
@@ -54,7 +79,13 @@
     },
     "do_objectID": "F59D901A-2BA6-4E30-9A62-DCF606444F82",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

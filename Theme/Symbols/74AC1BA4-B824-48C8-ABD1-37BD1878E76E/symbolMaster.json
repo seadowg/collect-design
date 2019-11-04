@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "51004A3B-C66B-41AC-828C-C1DDE4BFE8AA",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "74AC1BA4-B824-48C8-ABD1-37BD1878E76E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CAF0EBC1-2E7D-4FFD-A583-141E8F3DD449",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9827A564-26AA-43DC-91B5-216385276766",
     "height": 48,
     "width": 120,
     "x": 81860,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2C57F9DB-DB00-4B56-A27E-BC9F75E8482E",
     "guides": [
     ]
   },
@@ -94,6 +90,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Tab / Elements / Icon Tab / Inactive / Pressed",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -123,6 +120,8 @@
       "overrideName": "751349BA-3BC3-4198-BDB2-25374FB5B696_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -130,9 +129,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "F4D0F916-C2F2-4120-983F-3A54963F8DC0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -145,7 +182,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F0EAF72B-97E9-4367-929E-C7088B97EFF1",
     "guides": [
     ]
   }

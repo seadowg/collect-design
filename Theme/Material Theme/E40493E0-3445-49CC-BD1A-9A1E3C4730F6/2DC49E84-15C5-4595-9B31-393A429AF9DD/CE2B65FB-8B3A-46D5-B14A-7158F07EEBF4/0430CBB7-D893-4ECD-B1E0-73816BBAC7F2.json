@@ -5,7 +5,6 @@
   "do_objectID": "0430CBB7-D893-4ECD-B1E0-73816BBAC7F2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "95D47530-9977-4F44-8E88-5734E8977CD7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "68A18EDA-C4B2-4ABB-B1F1-2AA8C78CF01B",
     "height": 376,
     "width": 344,
     "x": 8,
@@ -30,12 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Cards / Title Top / Filled / Resting",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3050D467-C2CF-47EC-89C8-FEBB5195FEBF",
       "overrideName": "B83457AD-B23B-4843-8715-BC82D1BFE3A2/A4ABBC8E-FC8E-486A-AA01-4EB093E08475/3E9E0621-6866-4FB3-9BBA-A641BB4F4FA0_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -51,9 +49,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "26A89A45-A878-4E9D-B090-D3C31018877B",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

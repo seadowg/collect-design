@@ -5,7 +5,6 @@
   "do_objectID": "B351AA30-DE93-4D1D-B2F1-78EDDAE885EB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "81DB48E7-D8A6-4B6F-A8FA-70CBFF2AF149",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BFE88869-36F2-4E06-8B8F-DEAE3F806BC1",
     "height": 32,
     "width": 141,
     "x": 537,
@@ -30,12 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Chips / Input / Outlined / Text only / Focused",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7CA30CDF-4F1D-4D1A-86AA-7257E4B273AA",
       "overrideName": "DBD802EC-1B59-4D42-8ADC-805913C4E43B/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
       "value": "Focused"
     }
@@ -47,9 +45,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C39E8DC4-2110-4099-AE9C-2AC4D85EFBE3",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

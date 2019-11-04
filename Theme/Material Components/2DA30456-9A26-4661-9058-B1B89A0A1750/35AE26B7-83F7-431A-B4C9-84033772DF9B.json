@@ -5,7 +5,6 @@
   "do_objectID": "35AE26B7-83F7-431A-B4C9-84033772DF9B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FB842CD7-55C9-4C5F-947F-0D348FA2D268",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "17E11C3D-71B0-4B69-9862-9ED6E438CAC1",
     "height": 200,
     "width": 1024,
     "x": 0,
@@ -30,18 +28,17 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Artboard Content / Component Header",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "03410B6A-C545-421F-9D90-4000A130E0C6",
       "overrideName": "F3FD3230-5015-472E-9FC8-2E2E9A23CFAC_stringValue",
       "value": "Material Stickersheet"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9803B1C6-4A3D-4F1B-8452-A05296009326",
       "overrideName": "5DC582DE-2719-4B95-8A3A-7D64C77BB318_stringValue",
       "value": "Navigation Drawers"
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "EFAC957E-1AA9-4DD3-82E3-6BFE87FE0436",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

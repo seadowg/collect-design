@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "DD4F52C8-DCB0-4510-AC6F-3F5C7B9239FC",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "CC9F5966-EE4C-452A-B211-FEEB7C2D8442",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6D59E09E-6901-4F8F-B24F-FD0B4676601F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "117A1175-CD4D-45F9-BDDF-777ED09F167D",
     "height": 640,
     "width": 360,
     "x": 68596,
@@ -47,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "43B213DB-888C-447E-BADB-54CC6A5F5B92",
     "guides": [
     ]
   },
@@ -90,6 +86,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
+  "maintainScrollPosition": false,
   "name": "Navigation Drawer / Elements / Surface / Temporary Side",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -114,6 +111,8 @@
       "overrideName": "F907E280-D52C-46DE-8FE6-566C8C4784BC_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -121,9 +120,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "14274DFC-38FD-4833-A49B-0FDEFBF84E1D",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -131,7 +168,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C812CC49-5339-46CD-97AC-B047DAE4BCBF",
     "guides": [
     ]
   }

@@ -5,7 +5,6 @@
   "do_objectID": "37FFE8ED-4F04-4A78-BA1A-AEA6BE30FBB6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "531B34DE-183F-4220-8BE9-27188E5DA1AD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "44CA81A6-89BA-4030-98CE-5E776C7F9BAF",
     "height": 40,
     "width": 312,
     "x": 16,
@@ -30,18 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "TITLE BLOCK",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "48023A3A-A09B-4043-9A5E-450CEE297D95",
       "overrideName": "93119A82-496E-422A-9956-78FCFB1853D3_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DC6BBFCF-C2AD-4486-B1F2-A6F4E55FBA4F",
       "overrideName": "E549206B-5F7A-4E35-A119-88B7754BEE4E_symbolID",
       "value": ""
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "E1702E03-FA13-4B43-B52F-3557DCD0B179",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

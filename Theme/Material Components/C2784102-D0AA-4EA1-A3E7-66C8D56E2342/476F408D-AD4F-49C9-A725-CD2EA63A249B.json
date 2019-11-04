@@ -5,7 +5,6 @@
   "do_objectID": "476F408D-AD4F-49C9-A725-CD2EA63A249B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63F60BA5-ED60-4AEB-9910-234F93F71C9B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E51F1A82-17FD-40BC-9774-2672C2D4F780",
     "height": 64,
     "width": 360,
     "x": 584,
@@ -30,18 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Bottom Navigation / 3-up / Surface Color",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2B573107-4536-49E7-85DF-E714369BB2EB",
       "overrideName": "89E8E0B0-D5BB-4CE2-95DA-B9C216930A96/80DC39C7-B0B6-4E12-9B95-B1B86BCF0D63_symbolID",
       "value": "B094B8DC-4141-423E-9ED2-4772C84060BB"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A17BBD9D-0B62-4191-B30B-674E31E71755",
       "overrideName": "0697AB25-ED46-471F-86B3-B0BA2C2CB15E/80DC39C7-B0B6-4E12-9B95-B1B86BCF0D63_symbolID",
       "value": "36CE2F76-8109-46B9-A6DC-FA6DE31697E8"
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "907C56BD-4953-4712-90CB-7F185CD1375C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

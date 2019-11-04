@@ -28,30 +28,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "App Bar / Elements / Icons On Surface / Positioned Right / 3 Up with Menu",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D6EFD980-32A7-4CD9-A316-EEDC09CA98AA",
       "overrideName": "2D4B23A2-F11F-43EA-A779-967AE9F9DA58/48C89CDF-FADF-4B1C-AF10-AC9977B08550_symbolID",
       "value": "5D1C0B91-B419-4295-8F5A-24BEC5809102"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0AB0F9BC-C829-46B5-BEA9-B7B994590D06",
       "overrideName": "729A9F28-67C3-4E33-8EFF-EE492A5B849A/CDBA4007-2D37-49A6-AFC6-68095C0B3024_symbolID",
       "value": "5D1C0B91-B419-4295-8F5A-24BEC5809102"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "AC4A46EA-B1E6-4007-8C05-4B9B615140A3",
       "overrideName": "EA856FCD-27F8-4B02-8403-9A48DB749121/8093273C-F171-4E4A-8A30-003A41D20C83_symbolID",
       "value": "5D1C0B91-B419-4295-8F5A-24BEC5809102"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "97C6810A-7D42-4476-AB41-0CBE97A663C6",
       "overrideName": "F1047370-CE33-4778-982E-CCAE6C2D1EE2/5F27B866-9ACD-440C-AEB0-34DC0244834C_symbolID",
       "value": "5D1C0B91-B419-4295-8F5A-24BEC5809102"
     }
@@ -63,8 +60,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "905D4E46-2FCC-4B7F-AA80-0655B44FA295",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

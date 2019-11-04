@@ -5,7 +5,6 @@
   "do_objectID": "7A4083FD-78C1-41DA-B95D-B25610D0AFCA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0E1F6D54-B4F1-47F8-A13B-A37E1B2C1902",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2D1990F3-7495-4D2D-9FCB-D9AD70D23970",
     "height": 109,
     "width": 360,
     "x": -8409,
@@ -30,12 +28,12 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "✱ / Artboard Content / Editor Tips",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "09DB4D47-AF82-4906-AFB9-78C47B015D55",
       "overrideName": "79934E55-02A7-4171-8AAD-54C9C8C8A500_stringValue",
       "value": "When you apply theme changes your selections are applied to components in this library. Play with the Editor to see your theme change components."
     }
@@ -47,9 +45,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "8CF76F13-5237-4CD3-9160-85296E0CABB6",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

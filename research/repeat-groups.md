@@ -4,7 +4,7 @@ This is motivated by a narrative emerging on the forum around changes people wan
 
 ## Questions
 
-* What kinds of questions are being answered (data being collected) using repeat groups?
+* What kinds of questions are being answered (data is being collected) using repeat groups?
 * What are the pain points form designers are experiencing with repeat groups?
 * Are there tweaks to repeat groups we can make to make repeat groups easier?
 * Are there any new features we could build or reworks we could carry out that would provide better solutions than the current repeat groups feature?

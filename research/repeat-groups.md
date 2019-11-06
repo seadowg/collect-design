@@ -17,7 +17,7 @@ This is motivated by a narrative emerging on the forum around changes people wan
 - [ ] Break each interview into "insight/opportunity/pain point" format
 - [ ] Synthesize (pull out common items) results of interviews and attempt to answer questions
 
-## Interview Script
+## Interview script
 
 1. This is a fairly informal conversation. The goal is just to get a better sense of how you use ODK tools. There aren’t any right or wrong answers here - your experience is the most interesting thing.
 2. Are you happy to be recorded?

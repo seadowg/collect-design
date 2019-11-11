@@ -1,0 +1,36 @@
+# Repeats
+
+This is motivated by a narrative emerging on the forum around changes people want make to repeats.
+
+## Goals
+
+The questions we want to know the answers to for this research round are:
+
+* What kinds of questions are being answered (data is being collected) using repeats?
+* What pain points are form designers witnessing with repeats?
+* Are there tweaks to repeats we can make to make them better?
+* Are there any new features we could build or reworks we could carry out that would provide better solutions than the current repeats feature?
+
+## Plan
+
+- [x] Use forum posts to collect initial research (using "insight/opportunity/pain point" format)
+- [x] Write interview script with [goals](#goals) and initial research as input
+- [ ] Perform interviews with 3-5 form designers using script
+- [ ] Break each interview into "insight/opportunity/pain point" format
+- [ ] Synthesize (pull out common items) results of interviews and attempt to answer questions
+
+## Interview script
+
+1. I'm [your-name>] and I'm doing some research into people using ODK tools.
+1. This is a fairly informal conversation. The goal is just to get a better sense of how you use ODK tools. There aren’t any right or wrong answers here - your experience is the most interesting thing. We'll share the anonymized insights from this interview with the community to help us to continue to develop ODK.
+1. Are you happy to be recorded?
+1. Would you be able to tell me about your day to day job?
+1. Could you tell me about the last time form you made as part of programme? Go into detail about the form and what XLSForm features you used.
+1. Do you ever use repeats as part of your forms? If so, tell me about the last time you did?
+1. What went well? What didn't?
+1. Did repeats let you collect the data you needed?
+1. Had you used repeats on other forms before this one? How different were they?
+
+## Results
+
+*Pending.* Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).

@@ -21,7 +21,7 @@ The questions we want to know the answers to for this research round are:
 
 ## Interview script
 
-1. I'm [your-name>] and I'm doing some research into people using ODK tools.
+1. I'm [your-name] and I'm doing some research into people using ODK tools for the ODK community.
 1. This is a fairly informal conversation. The goal is just to get a better sense of how you use ODK tools. There aren’t any right or wrong answers here - your experience is the most interesting thing. We'll share the anonymized insights from this interview with the community to help us to continue to develop ODK.
 1. Are you happy to be recorded?
 1. Would you be able to tell me about your day to day job?

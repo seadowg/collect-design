@@ -15,7 +15,7 @@ The questions we want to know the answers to for this research round are:
 
 - [x] Use forum posts to collect initial research (using "insight/opportunity/pain point" format)
 - [x] Write interview script with [goals](#goals) and initial research as input
-- [ ] Perform interviews with 3-5 form designers using script
+- [x] Perform interviews with 3-5 form designers using script
 - [ ] Break each interview into "insight/opportunity/pain point" format
 - [ ] Synthesize (pull out common items) results of interviews and attempt to answer questions
 

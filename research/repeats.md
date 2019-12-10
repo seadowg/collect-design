@@ -33,4 +33,14 @@ The questions we want to know the answers to for this research round are:
 
 ## Results
 
-*Pending.* Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
+Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
+
+
+* What kinds of questions are being answered (data is being collected) using repeats?
+  * "Census" structure household data - having everyone in household, school etc answer same questions
+  * Observation data - observing features of a location or entity
+* What pain points are form designers witnessing with repeats?
+  * None. They like the form feature and the resulting data structure.
+* Are there tweaks to repeats we can make to make them better?
+* Are there any new features we could build or reworks we could carry out that would provide better solutions than the current repeats feature?
+

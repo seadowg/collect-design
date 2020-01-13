@@ -1,6 +1,6 @@
 # Repeats
 
-This is motivated by a narrative emerging on the forum around changes people want make to repeats.
+This is motivated by a narrative emerging on the forum around changes people want to make to repeats in Collect.
 
 ## Goals
 
@@ -35,12 +35,13 @@ The questions we want to know the answers to for this research round are:
 
 Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
 
-
 * What kinds of questions are being answered (data is being collected) using repeats?
   * "Census" structure household data - having everyone in household, school etc answer same questions
   * Observation data - observing features of a location or entity
 * What pain points are form designers witnessing with repeats?
-  * None. They like the form feature and the resulting data structure.
+  * It's hard for enumerators to add a new repeat group quickly when they are half way through another. This complicates data collection where repeats aren't filled out entirely in order (taking a list of names of people up front).
+  * There can be confusion around the language used when prompting enumerators to add another group. the "group" is typically named ("observation" for example) and so the word itself seems to be complicating things ("add another observation group").
+  * Some enumerators find navigating between repeats confusing.
 * Are there tweaks to repeats we can make to make them better?
   * Fix "Add new group" dialog closing on app background
   * Improve the language around repeats in Collect better. On the "Add new group" prompt we could tweak it so that it puts more prominence on the repeat group label by removing the "group" word altogether. 

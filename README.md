@@ -8,7 +8,7 @@ Research will be planned and results posted within this repo. Each research roun
 
 Previous research rounds:
 
-* [Repeats](/research/repeats)
+* [Repeats](research/repeats)
 
 ## Prototypes
 
@@ -16,9 +16,9 @@ Prototypes for potential/experimental features in Collect will be added here. Th
 
 Previous feature prototypes:
 
-* [Identify User](/prototypes/identify-user)
-* [Track Changes Reason](/prototypes/track-changes-reason)
-* [Repeat Tweaks](/prototypes/repeat-tweaks)
+* [Identify User](prototypes/identify-user)
+* [Track Changes Reason](prototypes/track-changes-reason)
+* [Repeat Tweaks](prototypes/repeat-tweaks)
 
 ## Theme
 

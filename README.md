@@ -1,8 +1,28 @@
-# ODK Collect Design
+# ODK Collect Design 🎨📋
 
-This repo holds the design files for [ODK Collect](https://github.com/opendatakit/collect). Collect uses a [Material Theme](https://material.io/design/material-theming/) as the basis for its design and style guide. This repo contains the Sketch files (that use the [Material Theme Editor](https://material.io/tools/theme-editor/)) that define the theme. While the intention is for Collect to adhere to this theme as closely as possible over time, most of the app is still not up to date with it.
+This repo collects design documents for [ODK Collect](https://github.com/opendatakit/collect).
 
-## Using
+## Research
+
+Research will be planned and results posted within this repo. Each research round should be represented by a single document in the `research` directory.
+
+Previous research rounds:
+
+* [Repeats](/research/repeats)
+
+## Prototypes
+
+Prototypes for potential/experimental features in Collect will be added here. This can be in the form of wireframes, sketch files, working apps etc.
+
+Previous feature prototypes:
+
+* [Identify User](/prototypes/identify-user)
+* [Track Changes Reason](/prototypes/track-changes-reason)
+* [Repeat Tweaks](/prototypes/repeat-tweaks)
+
+## Theme
+
+Collect uses a [Material Theme](https://material.io/design/material-theming/) as the basis for its design and style guide. This repo contains the Sketch files (that use the [Material Theme Editor](https://material.io/tools/theme-editor/)) that define the theme. While the intention is for Collect to adhere to this theme as closely as possible over time, most of the app is still not up to date with it.
 
 ### Style guide
 

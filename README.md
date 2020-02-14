@@ -19,6 +19,7 @@ Previous feature prototypes:
 * [Identify User](prototypes/identify-user)
 * [Track Changes Reason](prototypes/track-changes-reason)
 * [Repeat Tweaks](prototypes/repeat-tweaks)
+* [Revised Main Menu](prototypes/revised-main-menu)
 
 ## Theme
 

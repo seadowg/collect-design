@@ -28,14 +28,13 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Subtitle 1 / Selected / On Primary / Medium Emphasis / Left ",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "20C7F8E8-9951-4897-BBCC-EE55848295DE_stringValue",
-      "value": "Text on Primary / Medium Emphasis / Black 60%"
+      "value": "Text on Primary / Medium Emphasis / Black 66%"
     }
   ],
   "resizingConstraint": 47,

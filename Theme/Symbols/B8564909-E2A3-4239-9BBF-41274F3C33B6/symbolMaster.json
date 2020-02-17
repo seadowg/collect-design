@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1724,
+  "changeIdentifier": 1726,
   "clippingMaskMode": 0,
   "do_objectID": "B8564909-E2A3-4239-9BBF-41274F3C33B6",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Body 2 / Primary / On Surface / Left",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1999,
+  "changeIdentifier": 2005,
   "clippingMaskMode": 0,
   "do_objectID": "E2E032B4-7174-4037-8A4B-C06B48A0A019",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Body 2 / Selected / On Primary / Medium Emphasis / Center ",
   "nameIsFixed": true,
   "overrideProperties": [

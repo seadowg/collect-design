@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BCC744AE-02D6-450F-B447-1571483CD98D",
+    "do_objectID": "CA7C55D7-B735-48AB-B903-7A54EE053553",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -51,7 +51,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
+          "alpha": 0.6604687499999999,
           "blue": 0,
           "green": 0,
           "red": 0

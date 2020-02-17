@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2535,
+  "changeIdentifier": 2545,
   "clippingMaskMode": 0,
   "do_objectID": "3DB464FA-0D9C-4579-A528-5D120E766EB4",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Button / Primary / Right",
   "nameIsFixed": true,
   "overrideProperties": [

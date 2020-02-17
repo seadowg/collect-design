@@ -9,7 +9,7 @@
     "red": 0.5254901960784314
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1847,
+  "changeIdentifier": 1853,
   "clippingMaskMode": 0,
   "do_objectID": "DF917666-0104-4602-9510-B24415BF56AE",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / H4 / Selected / On Primary / Medium Emphasis / Left ",
   "nameIsFixed": true,
   "overrideProperties": [

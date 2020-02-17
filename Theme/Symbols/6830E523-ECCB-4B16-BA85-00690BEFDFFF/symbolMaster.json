@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1796,
+  "changeIdentifier": 1802,
   "clippingMaskMode": 0,
   "do_objectID": "6830E523-ECCB-4B16-BA85-00690BEFDFFF",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Caption / Selected / On Primary / Medium Emphasis / Left ",
   "nameIsFixed": true,
   "overrideProperties": [

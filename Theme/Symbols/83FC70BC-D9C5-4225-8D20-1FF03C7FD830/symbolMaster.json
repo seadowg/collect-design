@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1427,
+  "changeIdentifier": 1428,
   "clippingMaskMode": 0,
   "do_objectID": "83FC70BC-D9C5-4225-8D20-1FF03C7FD830",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Color / Primary / 600",
   "nameIsFixed": true,
   "overrideProperties": [

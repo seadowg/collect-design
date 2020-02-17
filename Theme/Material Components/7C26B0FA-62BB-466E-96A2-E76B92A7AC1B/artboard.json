@@ -167,7 +167,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 864
   },
-  "maintainScrollPosition": false,
   "name": "Bottom App Bars",
   "nameIsFixed": true,
   "presetDictionary": {

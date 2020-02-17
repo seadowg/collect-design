@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2035,
+  "changeIdentifier": 2041,
   "clippingMaskMode": 0,
   "do_objectID": "61349C6D-6B15-4ED0-BDF6-57283D75670B",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Button / Selected / On Primary / Medium Emphasis / Left ",
   "nameIsFixed": true,
   "overrideProperties": [

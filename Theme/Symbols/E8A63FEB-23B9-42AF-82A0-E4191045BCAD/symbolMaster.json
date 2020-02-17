@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2127,
+  "changeIdentifier": 2133,
   "clippingMaskMode": 0,
   "do_objectID": "E8A63FEB-23B9-42AF-82A0-E4191045BCAD",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / H6 / Selected / On Primary / Medium Emphasis / Center ",
   "nameIsFixed": true,
   "overrideProperties": [

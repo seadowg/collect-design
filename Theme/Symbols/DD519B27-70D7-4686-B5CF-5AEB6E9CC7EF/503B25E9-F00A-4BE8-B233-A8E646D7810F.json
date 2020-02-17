@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3765737039942367,
-            "green": 0.3765737282854163,
-            "red": 0.3765736958880824
+            "blue": 0.4588235243830187,
+            "green": 0.458823561966997,
+            "red": 0.4588235091795667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -67,7 +67,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
   "name": "Body 2",
   "nameIsFixed": true,
   "resizingConstraint": 27,
@@ -125,9 +124,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3765737039942367,
-          "green": 0.3765737282854163,
-          "red": 0.3765736958880824
+          "blue": 0.4588235243830187,
+          "green": 0.458823561966997,
+          "red": 0.4588235091795667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

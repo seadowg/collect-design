@@ -9,7 +9,7 @@
     "red": 0.5254901960784314
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1777,
+  "changeIdentifier": 1783,
   "clippingMaskMode": 0,
   "do_objectID": "9C6EA921-DCD4-405C-B37F-66962F0DB046",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / H1 / Selected / On Primary / Medium Emphasis / Center ",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1575,
+  "changeIdentifier": 1585,
   "clippingMaskMode": 0,
   "do_objectID": "316F13AC-DD16-4698-9386-3FEFCC3DBD16",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Overline / Primary / Left",
   "nameIsFixed": true,
   "overrideProperties": [

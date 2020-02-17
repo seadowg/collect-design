@@ -28,14 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Body 1 / White / High Emphasis / Left",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "615E97C5-7DE5-40F4-8D79-8C3A251DC07C_stringValue",
-      "value": "#979797"
+      "overrideName": "73766BB3-BE0F-43B4-9887-148CB9C8FF1B_stringValue",
+      "value": "#757575"
     }
   ],
   "resizingConstraint": 63,
@@ -89,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7DCEDABC-6A1A-4954-B538-CF417B826D61",
+  "symbolID": "BCBF0513-966C-4C9F-96B5-58F602B90938",
   "verticalSpacing": 0
 }

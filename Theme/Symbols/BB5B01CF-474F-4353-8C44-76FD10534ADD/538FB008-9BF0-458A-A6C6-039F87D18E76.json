@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.619607836534927,
+            "green": 0.619607885879585,
+            "red": 0.6196078165740504
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -63,7 +63,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
   "name": "Headline 3",
   "nameIsFixed": true,
   "resizingConstraint": 27,
@@ -121,9 +120,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.619607836534927,
+          "green": 0.619607885879585,
+          "red": 0.6196078165740504
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

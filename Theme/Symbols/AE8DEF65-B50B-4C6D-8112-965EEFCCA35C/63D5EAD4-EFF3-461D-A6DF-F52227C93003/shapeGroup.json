@@ -53,7 +53,6 @@
       "id": "DD0FF386-F396-4340-91EE-8E5B34BF2069"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Surface",
   "nameIsFixed": true,
   "resizingConstraint": 10,
@@ -85,9 +84,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.619607836534927,
+          "green": 0.619607885879585,
+          "red": 0.6196078165740504
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

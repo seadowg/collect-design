@@ -105,7 +105,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 700
   },
-  "maintainScrollPosition": false,
   "name": "Material Theme",
   "nameIsFixed": true,
   "resizingConstraint": 63,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2297,
+  "changeIdentifier": 2299,
   "clippingMaskMode": 0,
   "do_objectID": "69B9CECF-42DC-4561-9A92-6A51327C49F6",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Button / Primary / On Surface / Left",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1917,
+  "changeIdentifier": 1927,
   "clippingMaskMode": 0,
   "do_objectID": "34F6266B-5A03-49CE-AFA0-22358EE0E92D",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Subtitle 1 / Primary / Left",
   "nameIsFixed": true,
   "overrideProperties": [

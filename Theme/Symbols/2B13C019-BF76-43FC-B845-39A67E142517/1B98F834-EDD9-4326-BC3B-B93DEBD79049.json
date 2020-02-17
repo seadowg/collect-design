@@ -31,7 +31,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "Rectangle 13",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
@@ -174,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9614896423314422,
-          "green": 0.9614897160775632,
-          "red": 0.9614896126428832
+          "blue": 0.9333333236606014,
+          "green": 0.9333333959529283,
+          "red": 0.9333332944169452
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

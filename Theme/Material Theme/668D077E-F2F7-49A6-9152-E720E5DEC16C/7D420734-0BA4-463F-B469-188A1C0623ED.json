@@ -28,14 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Body 1 / White / High Emphasis / Left",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "73766BB3-BE0F-43B4-9887-148CB9C8FF1B_stringValue",
-      "value": "#606060"
+      "value": "#424242"
     }
   ],
   "resizingConstraint": 63,

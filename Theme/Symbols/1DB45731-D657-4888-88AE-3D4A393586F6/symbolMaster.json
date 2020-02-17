@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2300,
+  "changeIdentifier": 2302,
   "clippingMaskMode": 0,
   "do_objectID": "1DB45731-D657-4888-88AE-3D4A393586F6",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Button / Primary / On Surface / Center",
   "nameIsFixed": true,
   "overrideProperties": [

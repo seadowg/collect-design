@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1910,
+  "changeIdentifier": 1912,
   "clippingMaskMode": 0,
   "do_objectID": "9F9E4232-E73B-4160-8A36-ABA28669DDB5",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / Caption / Primary / On Surface / Center",
   "nameIsFixed": true,
   "overrideProperties": [

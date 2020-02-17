@@ -159,7 +159,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 864
   },
-  "maintainScrollPosition": false,
   "name": "Top App Bars",
   "nameIsFixed": true,
   "presetDictionary": {

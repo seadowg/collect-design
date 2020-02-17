@@ -115,7 +115,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 864
   },
-  "maintainScrollPosition": false,
   "name": "Snackbar & Banner",
   "nameIsFixed": true,
   "presetDictionary": {

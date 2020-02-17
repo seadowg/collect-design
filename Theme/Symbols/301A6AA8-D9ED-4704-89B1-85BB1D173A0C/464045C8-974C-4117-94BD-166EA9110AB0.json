@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9423426768771614,
-            "green": 0.942342746714893,
-            "red": 0.9423426493624547
+            "blue": 0.8784313725490196,
+            "green": 0.8784313725490196,
+            "red": 0.8784313725490196
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -68,7 +68,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
   "name": "Button Text",
   "nameIsFixed": true,
   "resizingConstraint": 26,
@@ -126,9 +125,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9423426768771614,
-          "green": 0.942342746714893,
-          "red": 0.9423426493624547
+          "blue": 0.8784313725490196,
+          "green": 0.8784313725490196,
+          "red": 0.8784313725490196
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

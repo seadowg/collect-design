@@ -28,7 +28,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "↳ Tonal Palette",
   "nameIsFixed": true,
   "overrideValues": [
@@ -84,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D572FC-142E-4891-A02E-A70F9911955E",
+  "symbolID": "4930830B-5113-4EEE-8DDA-7C0E501250D8",
   "verticalSpacing": 0
 }

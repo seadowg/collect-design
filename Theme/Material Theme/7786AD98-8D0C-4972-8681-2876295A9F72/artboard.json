@@ -127,7 +127,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 700
   },
-  "maintainScrollPosition": false,
   "name": "Elevation",
   "nameIsFixed": true,
   "presetDictionary": {

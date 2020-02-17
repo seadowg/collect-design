@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1832,
+  "changeIdentifier": 1842,
   "clippingMaskMode": 0,
   "do_objectID": "BB5B01CF-474F-4353-8C44-76FD10534ADD",
   "exportOptions": {
@@ -78,7 +78,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 3000
   },
-  "maintainScrollPosition": false,
   "name": "✱ / Text / H3 / Primary / Left",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -43,12 +43,17 @@ Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
   * There can be confusion around the language used when prompting enumerators to add another group. the "group" is typically named ("observation" for example) and so the word itself seems to be complicating things ("add another observation group").
   * Some enumerators find navigating between repeats confusing.
 * Are there tweaks to repeats we can make to make them better?
-  * Fix "Add new group" dialog closing on app background
+  * **Fix "Add new group" dialog closing on app background**
   * Improve the language around repeats in Collect better. On the "Add new group" prompt we could tweak it so that it puts more prominence on the repeat group label by removing the "group" word altogether. 
-  * Revise navigation back through repeat instances. This would be really helped with field visits to see Enumerators work with repeats.
-  * Look at adding the ability to add a new repeat instance without navigating to the hierarchy screen (could be within the options menu).
-  * Revise documentation to highlight using multiple form instances instead of repeats where appropriate.
+  * **Revise navigation back through repeat instances. This would be really helped with field visits to see Enumerators work with repeats.**
+  * **Look at adding the ability to add a new repeat instance without navigating to the hierarchy screen (could be within the options menu).**
+  * **Revise documentation to highlight using multiple form instances instead of repeats where appropriate.**
 * Are there any new features we could build or reworks we could carry out that would provide better solutions than the current repeats feature?
   * A way to reference form data from other forms could mean more people would use multiple form instances rather than repeats.
   * Being able to fill out one form within another instead of a repeat group (i.e. an observation can be made with a animal or plant form) would remove the need for form designers to use a lot of skip logic/hiding.
   * An alternative to the above would be a way of grouping forms within some project/task/workflow. An example would be a "household" project/task that groups several "member" forms together.
+  
+## Follow ups
+
+* Update repeat language PR: https://github.com/opendatakit/collect/pull/3602
+* Clean up repeats docs PR: https://github.com/opendatakit/docs/pull/1137

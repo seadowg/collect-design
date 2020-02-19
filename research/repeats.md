@@ -44,7 +44,7 @@ Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
   * Some enumerators find navigating between repeats confusing.
 * Are there tweaks to repeats we can make to make them better?
   * **Fix "Add new group" dialog closing on app background**
-  * Improve the language around repeats in Collect better. On the "Add new group" prompt we could tweak it so that it puts more prominence on the repeat group label by removing the "group" word altogether. 
+  * **Improve the language around repeats in Collect better. On the "Add new group" prompt we could tweak it so that it puts more prominence on the repeat group label by removing the "group" word altogether.** 
   * **Revise navigation back through repeat instances. This would be really helped with field visits to see Enumerators work with repeats.**
   * **Look at adding the ability to add a new repeat instance without navigating to the hierarchy screen (could be within the options menu).**
   * **Revise documentation to highlight using multiple form instances instead of repeats where appropriate.**
@@ -57,3 +57,4 @@ Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
 
 * Update repeat language PR: https://github.com/opendatakit/collect/pull/3602
 * Clean up repeats docs PR: https://github.com/opendatakit/docs/pull/1137
+* Stop repeat dialog closing PR: https://github.com/opendatakit/collect/pull/3592

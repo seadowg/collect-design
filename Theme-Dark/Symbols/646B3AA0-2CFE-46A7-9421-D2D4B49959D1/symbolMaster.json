@@ -1,0 +1,278 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 17742,
+  "clippingMaskMode": 0,
+  "do_objectID": "646B3AA0-2CFE-46A7-9421-D2D4B49959D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 344,
+    "x": 24406,
+    "y": 552
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C32CF5A-400C-4471-8A74-9A0B21662B04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18210458-FB19-48F6-9CFB-C92FDFFAF312"
+    },
+    {
+      "class": "group",
+      "id": "903A2425-88F1-4BD4-8C76-6FBB2C77E7A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D0C07AB-F3B8-4119-A085-1B64D7222961"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3CE3E7B-BE34-458E-BC21-8ED3FFD712DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E76BFD1A-87F7-4484-8182-0136E5F9F104"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CCB338C-2C09-4D06-98F4-441849910F6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2B33AD3-138A-4199-997A-2A209C01C77E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AE03883-22AF-419F-8B65-4D7F912B0E22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C503985B-43C2-46CF-80E1-5DFBEFDF65B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9BE23AA-8317-47C6-9AB6-C31E432E062E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Cards / with Chips / Outlined / Selected",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F9BE23AA-8317-47C6-9AB6-C31E432E062E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C503985B-43C2-46CF-80E1-5DFBEFDF65B1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C503985B-43C2-46CF-80E1-5DFBEFDF65B1/4612DCBF-3C33-46E6-9A22-FACCCF8F9AEC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5AE03883-22AF-419F-8B65-4D7F912B0E22_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B2B33AD3-138A-4199-997A-2A209C01C77E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3CCB338C-2C09-4D06-98F4-441849910F6F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E76BFD1A-87F7-4484-8182-0136E5F9F104_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A3CE3E7B-BE34-458E-BC21-8ED3FFD712DD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3D0C07AB-F3B8-4119-A085-1B64D7222961_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "762C368D-82C4-4E2D-979B-6BA325499BDF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F275D2A-898E-43DC-970E-30B819352257_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "6F275D2A-898E-43DC-970E-30B819352257/7D43DADA-A372-4541-A1A0-271003875EDF/C9AA14C8-5CF4-4779-999C-54F39C1A8C0A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30E9B7C6-1B04-41E4-96BB-A9454C208A18_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AE2D7334-C09F-4D2B-BBA7-3DFE97A55C44_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "18210458-FB19-48F6-9CFB-C92FDFFAF312_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C32CF5A-400C-4471-8A74-9A0B21662B04_layerStyle"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FEE872FC-939F-43D6-89CC-9D9F9080D932",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23B65BE3-82DF-4CD8-B975-4683698A0B8B",
+  "userInfo": {
+    "com.google.ux.material.spec_tools": {
+      "cornerSizesDp": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "theme": "{\"lastUpdatedUtc\":\"2020-02-19T15:16:12\",\"palettes\":{\"PRIMARY\":{\"colors\":[{\"red\":0.9803921160933798,\"green\":0.9803922224639295,\"blue\":0.9803921467294526,\"alpha\":1},{\"red\":0.9607842737281983,\"green\":0.9607843780843458,\"blue\":0.9607843037840981,\"alpha\":1},{\"red\":0.9333332944169452,\"green\":0.9333333959529283,\"blue\":0.9333333236606014,\"alpha\":1},{\"red\":0.8784313357944387,\"green\":0.8784314316900931,\"blue\":0.8784313634136084,\"alpha\":1},{\"red\":0.7411764392381718,\"green\":0.7411765210330057,\"blue\":0.7411764627961259,\"alpha\":1},{\"red\":0.6196078165740504,\"green\":0.619607885879585,\"blue\":0.619607836534927,\"alpha\":1},{\"red\":0.45882350917956666,\"green\":0.458823561966997,\"blue\":0.4588235243830187,\"alpha\":1},{\"red\":0.38039213971884306,\"green\":0.3803921844486612,\"blue\":0.38039215260160014,\"alpha\":1},{\"red\":0.25882351705472095,\"green\":0.2588235492952409,\"blue\":0.2588235263404013,\"alpha\":1},{\"red\":0.12941176470588237,\"green\":0.12941176470588237,\"blue\":0.12941176470588237,\"alpha\":1}],\"mainColorIndex\":9},\"SECONDARY\":{\"colors\":[{\"red\":0.851409556879012,\"green\":0.9429481768924846,\"blue\":0.9446239223104403,\"alpha\":1},{\"red\":0.6256326081651791,\"green\":0.8587215769372843,\"blue\":0.8553767562509488,\"alpha\":1},{\"red\":0.3411764705882353,\"green\":0.7686274509803922,\"blue\":0.7607843137254902,\"alpha\":1},{\"red\":0,\"green\":0.6732951102149815,\"blue\":0.659125334924886,\"alpha\":1},{\"red\":0,\"green\":0.6020750589992085,\"blue\":0.5819031229851276,\"alpha\":1},{\"red\":0,\"green\":0.5308670270452486,\"blue\":0.5015929283577355,\"alpha\":1},{\"red\":0,\"green\":0.4827436872825969,\"blue\":0.4507037672350986,\"alpha\":1},{\"red\":0,\"green\":0.42263049288159527,\"blue\":0.3870868357825482,\"alpha\":1},{\"red\":0,\"green\":0.3608564588214637,\"blue\":0.3263708577529716,\"alpha\":1},{\"red\":0,\"green\":0.25336741610517505,\"blue\":0.21212161134218566,\"alpha\":1}],\"mainColorIndex\":2},\"SURFACE\":{\"colors\":[{\"red\":0.9913553955139166,\"green\":0.99135551096327,\"blue\":0.991355429580478,\"alpha\":1},{\"red\":0.9720963759791442,\"green\":0.972096489376011,\"blue\":0.9720964094469816,\"alpha\":1},{\"red\":0.952909315217409,\"green\":0.9529094256654572,\"blue\":0.952909347735673,\"alpha\":1},{\"red\":0.9337950337573434,\"green\":0.933795138103444,\"blue\":0.9337950640937138,\"alpha\":1},{\"red\":0.812360399095041,\"green\":0.8123604888977242,\"blue\":0.8123604250306223,\"alpha\":1},{\"red\":0.6986378111909378,\"green\":0.6986378881423517,\"blue\":0.6986378333053863,\"alpha\":1},{\"red\":0.5316609407458116,\"green\":0.5316610008165816,\"blue\":0.5316609580264877,\"alpha\":1},{\"red\":0.44928201431449705,\"green\":0.4492820661218921,\"blue\":0.44928202923570754,\"alpha\":1},{\"red\":0.3237970817968269,\"green\":0.3237971206928796,\"blue\":0.32379709299738546,\"alpha\":1},{\"red\":0.18823529411764706,\"green\":0.18823529411764706,\"blue\":0.18823529411764706,\"alpha\":1}],\"mainColorIndex\":9}},\"cornerType\":\"ROUNDED\",\"cornerSizesDp\":[4,4,4,4],\"textStyles\":{\"HEADLINE_1\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},\"metrics\":{\"fontSize\":96}},\"HEADLINE_2\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},\"metrics\":{\"fontSize\":60}},\"HEADLINE_3\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":48}},\"HEADLINE_4\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":34}},\"HEADLINE_5\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":24}},\"HEADLINE_6\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":20}},\"SUBTITLE_1\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16}},\"SUBTITLE_2\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":14}},\"BODY_1\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16}},\"BODY_2\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14}},\"CAPTION\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12}},\"BUTTON\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":14}},\"OVERLINE\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":12}}},\"selectedFontFamilies\":[{\"name\":\"Roboto\",\"fonts\":[{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6}]}]}",
+      "themeMetadataVersion": 4,
+      "type": "cards"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

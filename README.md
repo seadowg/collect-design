@@ -20,6 +20,7 @@ Previous feature prototypes:
 * [Track Changes Reason](prototypes/track-changes-reason)
 * [Repeat Tweaks](prototypes/repeat-tweaks)
 * [Revised Main Menu](prototypes/revised-main-menu)
+* [Minimal Automcomplete Select](prototypes/minimal-autocomplete-select)
 
 ## Theme
 

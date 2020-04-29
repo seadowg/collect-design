@@ -21,6 +21,7 @@ Previous feature prototypes:
 * [Repeat Tweaks](prototypes/repeat-tweaks)
 * [Revised Main Menu](prototypes/revised-main-menu)
 * [Minimal Automcomplete Select](prototypes/minimal-autocomplete-select)
+* [Match Exactly](prototypes/match-exactly)
 
 ## Theme
 

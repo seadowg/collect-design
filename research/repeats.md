@@ -55,6 +55,8 @@ Research board is [here](https://miro.com/app/board/o9J_kw4mjM8=/).
   
 ## Follow ups
 
+* Research results shared and discussed on Forum: https://forum.getodk.org/t/repeat-research-results/24294
 * Update repeat language PR: https://github.com/opendatakit/collect/pull/3602
 * Clean up repeats docs PR: https://github.com/opendatakit/docs/pull/1137
 * Stop repeat dialog closing PR: https://github.com/opendatakit/collect/pull/3592
+* Add ability add repeat inline PR: https://github.com/GetODK/collect/pull/3656

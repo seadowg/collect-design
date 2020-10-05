@@ -1,6 +1,6 @@
 # In-app audio recording
 
-![](recording-flow.jpg)
+![](recording-flow.png)
 
 Originally based on [this forum post](https://forum.getodk.org/t/adding-native-audio-recording-for-audio-type-questions/29347) which outlines and discusses the feature request.
 

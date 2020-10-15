@@ -9,7 +9,7 @@ Research will be planned and results posted within this repo. Each research roun
 Previous research rounds:
 
 * [Repeats](research/repeats.md)
-* [Profiles](research/profiles.md)
+* [Audio recording](research/profiles.md)
 
 ## Prototypes
 

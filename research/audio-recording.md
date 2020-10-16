@@ -6,12 +6,15 @@ This is motivated by many requests to allow background audio recording during fo
 
 The questions we want to answer during this research round are:
 
-* Why do form designers need to record audio during interviews?
-* Are there constraints around the output in terms of size, format etc? Are these universal enough not to be configurable?
-* Could the audio question type be used in place of background audio recording in some cases?
+* Are form designers using the audio question to record already?
+* What are form designers recording as part of a form and why?
+* What constraints lead to form designers using different audio formats/encodings?
+* Do data analysts want to be able to check audio recorded during an interview?
+* Do form designers want to be able to record audio along side another answer to a question (and answer at the same time)?
 
 ## Plan
 
+- [ ] Add analytics to Collect around current audio question use
 - [ ] Write interview script with goals in mind
 - [ ] Carry out conversations (3-5) with potential users and stack holders using script
 - [ ] Break each interview into "insight/opportunity/pain point" format

@@ -29,7 +29,7 @@ The questions we want to answer during this research round are:
 1. What kind of data do you usually collect using ODK?
 1. What kind of devices do you use for data collection?
 1. Have you ever collected audio as part of a form with ODK? How did you set that up? Go into detail.
-1. Did using the audio question get you the data you needed? Was there anything that got in your way or was missing?
+1. Did using the audio question get you the data you needed? Was there anything that got in your way or was missing? Did the enumerators run into any problems while recording?
 1. Have you ever recorded audio during a data collection study outside of using ODK? If so, what were you collecting and how did you set it up?
 1. Have you used the audit log feature of ODK Collect before? If so, what for?
 1. Did using the audit log accomplish the goals you had when you decided to use it?

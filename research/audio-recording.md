@@ -37,6 +37,8 @@ The questions we want to answer during this research round are:
 
 ## Results
 
+Research board is [here](https://miro.com/app/board/o9J_lfN0jIc=/).
+
 TODO
 
 ## Follow ups

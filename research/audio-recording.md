@@ -16,7 +16,7 @@ The questions we want to answer during this research round are:
 
 - [x] Add analytics to Collect around current audio question use
 - [x] Write interview script with goals in mind
-- [ ] Carry out conversations (3-5) with potential users and stack holders using script
+- [x] Carry out conversations (3-5) with potential users and stack holders using script
 - [ ] Break each interview into "insight/opportunity/pain point" format
 - [ ] Synthesize (pull out common items) results of interviews and attempt to answer questions
 

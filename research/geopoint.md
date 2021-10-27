@@ -17,4 +17,9 @@ The questions we want to answer during this research round are:
  - Seems like the best way to indicate whether the user is outside or not/able to use GPS - no satellites means no GPS used in location fix
  - 4 is the minimum needed for a fix but it's not quite that simple with fused as other sources are being used
 * Does location provider info provide anything useful now we're using fused?
-  - We always see fused now so it's probably not useful anymore for most users (ones with Play Services enabled)?
+  - We always see fused now so it's probably not useful anymore for most users (ones with Play Services enabled)
+  - It is useful to see when a mock provider is being used or play services is unavailable
+* Why isn't there a map in the default `geopoint`?
+  - Adding a map would have performance and data costs (and also potentially cause problems for ODK's API limits)
+  - Maps only work for users who can read maps
+  - Maps only add value in places where there is good mapping data available and there is enough in the map to identify yourself

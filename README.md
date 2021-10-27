@@ -10,6 +10,7 @@ Previous research rounds:
 
 * [Repeats](research/repeats.md)
 * [Audio recording](research/audio-recording.md)
+* [Geopoint](research/geopoint.md)
 
 ## Prototypes
 

@@ -17,8 +17,7 @@ The questions we want to answer during this research round are:
 - [x] Add analytics to Collect around current audio question use
 - [x] Write interview script with goals in mind
 - [x] Carry out conversations (3-5) with potential users and stack holders using script
-- [ ] Break each interview into "insight/opportunity/pain point" format
-- [ ] Synthesize (pull out common items) results of interviews and attempt to answer questions
+- [x] Break each interview into "insight/opportunity/pain point" format
 
 ## Interview script
 
@@ -38,9 +37,3 @@ The questions we want to answer during this research round are:
 ## Results
 
 Research board is [here](https://miro.com/app/board/o9J_lfN0jIc=/).
-
-TODO
-
-## Follow ups
-
-TODO
